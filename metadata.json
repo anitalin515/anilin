@@ -1,0 +1,6 @@
+{
+  "name": "法式甜點屋：蛋糕疊疊樂",
+  "description": "溫暖法式甜點屋風格的 2D 蛋糕疊疊樂手機遊戲，點擊釋放鐘擺懸吊的蛋糕層，精準對齊累積連擊並挑戰最高紀錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
